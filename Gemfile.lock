@@ -6,7 +6,7 @@ PATH
       launchy (~> 2.2.0)
       mechanize (~> 2.7.5)
       netrc (~> 0.10.3)
-      rest-client (~> 1.8)
+      rest-client (~> 2.0.1)
 
 GEM
   remote: https://rubygems.org/
